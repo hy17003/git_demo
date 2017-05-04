@@ -1,1 +1,1 @@
-增加了一行在newfile文件中
+add a new line in new file
