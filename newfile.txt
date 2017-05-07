@@ -1,1 +1,2 @@
 add a new line in new file
+this is for a new line for ssh test
