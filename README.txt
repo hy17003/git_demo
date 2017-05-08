@@ -14,6 +14,6 @@ creating a new branch is quick & simple, i am in dev branch!
 creating a new branch is quick AND simple, i am in dev branch!
 this work is finished!
 
-this is a bug need to fixed!
+a bug is fix here.
 
 this is something
