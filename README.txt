@@ -8,3 +8,5 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 my stupid boss is still use svn
+
+creating a new branch is quick, i am in dev branch!
